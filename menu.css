@@ -1,0 +1,68 @@
+/*Daniel Scott*/
+
+div#menu {
+	width: 20%;
+	border: 5px solid black;
+	float: left;
+	position: fixed;
+
+}
+
+/*Added background image */
+body {
+	background-image: url(https://previews.123rf.com/images/karenr/karenr1506/karenr150600007/40831894-Blue-and-White-Striped-Gingham-Tile-Pattern-Repeat-Background-that-is-seamless-and-repeats-Stock-Photo.jpg);
+}
+
+div.menuButton {
+	margin-top: 5px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	padding: 10px;
+	border: 5px double black;
+}
+
+/*Changed Font*/
+/*Added font border looks*/
+div.menuItem {
+	font-family: Verdana;
+	color: black;
+	text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+
+div#info {
+	float: right;
+	border: 5px solid black;
+	width: 78%;
+}
+
+p {
+	padding: 0px;
+}
+
+/*Added centered title*/
+h1 {
+	text-align: center;
+}
+
+/*Added Image with Styling*/
+img {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	width: 50%;
+	border-radius: 50px;
+}
+
+/*Added buttons */
+a:link, a:visited {
+    background-color: #f45336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    background-color: red;
+}
