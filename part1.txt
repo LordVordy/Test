@@ -4,9 +4,6 @@ Daniel Scott
 2. Margin changes the space between the boxes. Padding increases the space around the text in the box.
 3. Margin: The <p> element gets pushed outside of the box, disappearing. Padding: the background gets pushed outside of the box but does not disappear.
 4. Scroll buts everything inside the box but lets you scroll around. Hidden just cuts it all.
-5. Float left makes the order 1,2,3. Right makes it 3,2,1.
-6. 	Div1: Goes to the left
-	Div2: Goes to the left and 1 and 3 are on the right side on top of each other.
-	Div3: Goes to the left and down one
-7. All the divs have float left. Div3 has clear left.
-8. The margin is removed. The boxes get pushed to the top right corner. It tells us that the default margin value is greater than the 0.
+Dbsuaidbsauib
+Dabdsiuabdu
+Dsubabdsuabd
